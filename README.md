@@ -1,2 +1,2 @@
 # OOP_sysntax_shirt_practice
-Code that insantiates a shirt object.
+Code that instantiates a shirt object.
